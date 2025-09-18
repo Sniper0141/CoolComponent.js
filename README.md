@@ -2,5 +2,13 @@
 
 a very cool package! (makes text blue)
 
+## How to install
+This is an npm-package.
+```
+npm i @sniper0141/my-cool-package
+```
+
 ## How to use
-You can add an argument for `text`.
+```jsx
+<CoolComponent text={"my text"}/>
+```

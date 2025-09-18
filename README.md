@@ -1,0 +1,1 @@
+# CoolComponent.js

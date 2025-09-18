@@ -5,7 +5,7 @@ a very cool package! (makes text blue)
 ## How to install
 This is an npm-package.
 ```
-npm i @sniper0141/my-super-duper-cool-package
+npm i my-super-duper-cool-package
 ```
 
 ## How to use
